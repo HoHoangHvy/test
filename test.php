@@ -1,2 +1,5 @@
 \<?php
-echo HelloWorld;
+echo('Hello world');
+function EchoSomething() {
+    echo('Con cac');
+}
